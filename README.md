@@ -69,7 +69,7 @@ Based on analysis of all public repositories, here's the complete technology sta
 
 ## 📦 Repositories Overview
 
-### 1. [LoBot LLC Homepage](https://github.com/nameuser4123/lobot-homepage) ⭐ **Main Project**
+### 1. [LoBot LLC Homepage](https://github.com/LoBot-LLC/homepage) ⭐ **Main Project**
 > **The OFFICIAL HOMEPAGE of LoBot LLC!**
 
 - **Language**: TypeScript

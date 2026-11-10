@@ -1,132 +1,204 @@
-# nameuser4123
+# nameuser4123 (m1zuk!)
 
-👤 **GitHub**: [nameuser4123](https://github.com/nameuser4123)  
-🔧 **Part-time Full-stack Software Engineer** at [LoBot LLC](https://github.com/LoBot-LLC)  
-🌙 *Just wanna sleep all day :((*
+[![GitHub](https://img.shields.io/badge/GitHub-nameuser4123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nameuser4123)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
-
-## 🎨 About Me
-
-I'm **nameuser4123** (m1zuk!), a part-time full-stack software engineer working with [LoBot LLC](https://github.com/LoBot-LLC). When I'm not coding, you can find me:
-
-- 😴 **Resting** — I don't travel much and prefer staying at home
-- 🎬 **Anime marathons** — Favorite includes *Attack on Titan*
-- 📚 **Manga reading** — Following *Conan* and *One Piece*
-- 🦖 **Kaiju movies** — Especially *Godzilla: Minus One* and the classic *Godzilla (1954)*
-
-I'm a **liberal** who believes in making all software free and open source. My philosophy aligns with the free software movement — software should be free as in freedom, not just price.
+> **just wanna sleep all day :(( working SE part time at [@LoBot-LLC](https://github.com/LoBot-LLC)**
 
 ---
 
-## 📂 Repository Overview
+## 👤 About Me
 
-I maintain 4 public repositories, all written in **TypeScript**:
+Hi there! I'm **m1zuk!** (GitHub: **nameuser4123**), a part-time **Full-stack Software Engineer** at **LoBot LLC** — an AI-native startup building logistics and business solutions that help organizations make future-ready strategic decisions.
 
-| Repository | Description | Primary Language | License |
-|------------|-------------|------------------|---------|
-| [nameuser4123](https://github.com/nameuser4123/nameuser4123) | A brief introduction of m1zuk! | TypeScript | GNU GPL v3.0 |
-| [.github](https://github.com/nameuser4123/.github) | Overall introduction to LoBot LLC startup | — | GNU AGPL v3.0 |
-| [lobot-homepage](https://github.com/nameuser4123/lobot-homepage) | The OFFICIAL HOMEPAGE of LoBot LLC! | TypeScript | BSD-3-Clause |
-| [tecno-indicator-personal-own](https://github.com/nameuser4123/tecno-indicator-personal-own) | The most reliable website to predict real-time oil and electricity prices for the next decade to come! | TypeScript | MIT License |
+### 🎌 Interests & Hobbies
 
-**Tech Stack across all repositories**: TypeScript (100%)
+- **Anime & Manga Enthusiast** — Big fan of *Attack on Titan*, *Detective Conan (Case Closed)*, and *One Piece*
+- **Kaiju Movie Lover** — Especially *Godzilla: Minus One* and the classic *Godzilla (1954)*
+- **Homebody** — I don't travel much and prefer staying at home 🏠
+
+### 💭 Philosophy
+
+I'm a **liberal** who strongly believes in **making all software free** and open-source. Software freedom is essential for innovation, transparency, and community-driven development.
 
 ---
 
-## 🏠 Main Project: LoBot Homepage
+## 🛠 Tech Stack
 
-My flagship project is the **[LoBot Homepage](https://github.com/nameuser4123/lobot-homepage)**, forked from [LoBot-LLC/homepage](https://github.com/LoBot-LLC/homepage). It's the official landing website for [LoBot LLC](https://lobotllc.vercel.app/).
+Based on analysis of all public repositories, here's the complete technology stack:
 
-### 🚀 Quick Overview
+### Primary Languages
 
-The OFFICIAL HOMEPAGE of LoBot LLC — an AI-native startup building logistics and business solutions that help organizations of every size make future-ready strategic decisions.
+| Language | Usage | Icon |
+|----------|-------|------|
+| **TypeScript** | 100% (All repositories) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
-**Live Demo**: [https://lobotllc.vercel.app/](https://lobotllc.vercel.app/)
+### Frameworks & Libraries
 
-### 🛠 Tech Stack (LoBot Homepage)
+| Technology | Purpose | Repositories |
+|------------|---------|--------------|
+| **Next.js 16** (App Router) | Full-stack React Framework | lobot-homepage, tecno-indicator-personal-own |
+| **React 19** | UI Library | lobot-homepage, tecno-indicator-personal-own |
+| **Tailwind CSS 4** | Utility-first Styling | lobot-homepage, tecno-indicator-personal-own |
+| **Chart.js** | Data Visualization | tecno-indicator-personal-own |
+| **Lucide React** | Icon System | tecno-indicator-personal-own |
+| **Drizzle ORM 0.45** | Type-safe Database ORM | lobot-homepage |
+| **PostgreSQL** | Primary Database | lobot-homepage |
 
-| Category | Technology |
-|----------|------------|
-| **Framework** | Next.js 16.4.5 (App Router, Turbopack) |
-| **Language** | TypeScript 5.9 |
-| **Styling** | Tailwind CSS 4.1 (PostCSS) |
-| **Database** | PostgreSQL + Drizzle ORM 0.45 |
-| **Runtime** | Node.js 22+ |
-| **Package Manager** | npm (with `package-lock.json` for reproducibility) |
-| **Linting** | ESLint 9 + eslint-config-next |
-| **CI/CD** | GitHub Actions (Node.js `latest`) |
-| **Internationalization** | 3 languages: English, Spanish, Vietnamese |
+### Development Tools
 
-### 📁 Project Structure
+| Tool | Purpose |
+|------|---------|
+| **Node.js 22+** | Runtime Environment |
+| **pnpm** | Fast, disk-efficient Package Manager (TecnoIndicator) |
+| **npm** | Package Manager (Homepage) |
+| **TypeScript 5** | Static Type Checking |
+| **ESLint 9** | Code Quality & Linting |
+| **Prettier** | Code Formatting |
+| **Playwright** | End-to-End Browser Testing |
+| **PostCSS** | CSS Processing Pipeline |
+| **Vercel** | Deployment & Hosting |
 
+### AI & External Services
+
+| Service | Purpose |
+|---------|---------|
+| **Kilo Gateway API** | AI Model Orchestration (price extraction, factor curation, forecasting) |
+| **TinyFish API** | Market Data Search & Scraping |
+| **Redis (Upstash)** | Distributed Caching (optional, in-memory fallback) |
+| **GitHub REST API** | Live Community Statistics |
+
+---
+
+## 📦 Repositories Overview
+
+### 1. [lobot-homepage](https://github.com/nameuser4123/lobot-homepage) ⭐ **Main Project**
+> **The OFFICIAL HOMEPAGE of LoBot LLC!**
+
+- **Forked from**: [LoBot-LLC/homepage](https://github.com/LoBot-LLC/homepage)
+- **Language**: TypeScript
+- **License**: BSD 3-Clause "New" or "Revised"
+- **Last Updated**: Nov 10, 2026
+- **Live Demo**: [https://lobotllc.vercel.app/](https://lobotllc.vercel.app/)
+
+**Tech Stack**: Next.js 16.4.5, TypeScript 5.9, Tailwind CSS 4.1, PostgreSQL + Drizzle ORM, Node.js 22+, Internationalization (EN/ES/VI)
+
+**Project Structure**:
 ```
 src/
-├── app/              # Next.js App Router pages and API routes
-│   ├── api/          # API endpoints (health, blog)
-│   ├── blog/         # Blog functionality
-│   ├── products/     # Products index and TecnoIndicator
-│   ├── about/        # About page
-│   ├── careers/      # Careers page
-│   ├── layout.tsx    # Root layout
-│   └── page.tsx      # Homepage
-├── components/       # Reusable UI components
-│   ├── Navbar.tsx    # Sticky navbar with toggles
-│   ├── Footer.tsx    # Footer with logo and links
-│   ├── Icons.tsx     # SVG icons and brand marks
-│   ├── Providers.tsx # React context providers
-│   └── ui.tsx        # Reusable UI components
-├── db/               # Drizzle ORM database layer
-│   ├── schema.ts     # Blog schema/types
-│   └── index.ts      # Lazy-initialized Drizzle client
-├── lib/              # Utility libraries
-│   ├── blog.ts       # Blog data layer with seed posts
-│   ├── github.ts     # GitHub helpers for community stats
-│   └── site.ts       # Site constants (email, URLs)
-└── i18n/             # Internationalization files (en, es, vi)
+├── app/                    # Next.js App Router (pages + API routes)
+│   ├── api/               # Health check, Blog API endpoints
+│   ├── blog/              # Blog pages (index + slug)
+│   ├── products/          # Products index + TecnoIndicator
+│   ├── about/, careers/   # Static pages
+├── components/            # React UI components
+├── db/                    # Drizzle ORM schema & client
+├── lib/                   # Blog, GitHub, Site utilities
+└── i18n/                  # EN/ES/VI translations
 ```
 
-### 🌍 Internationalization
+---
 
-The site supports **3 languages** out of the box:
-- **English** (`en`) — default
-- **Spanish** (`es`)
-- **Vietnamese** (`vi`)
+### 2. [tecno-indicator-personal-own](https://github.com/nameuser4123/tecno-indicator-personal-own)
+> **The most reliable website to predict real-time oil and electricity prices for the next decade to come!**
 
-Language is detected from the browser and persisted via a cookie.
+- **Forked from**: [LoBot-LLC/TecnoIndicator](https://github.com/LoBot-LLC/TecnoIndicator)
+- **Language**: TypeScript
+- **License**: MIT License
+- **Last Updated**: Nov 9, 2026
+- **Live Demo**: [https://tecnoindicator-lobot.vercel.app](https://tecnoindicator-lobot.vercel.app)
 
-### 🧪 Quality Checks
+**Tech Stack**: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, Chart.js, pnpm, AI-powered (Kilo Gateway + TinyFish)
 
-Run the full CI pipeline:
-```bash
-npm run typecheck   # TypeScript type checking
-npm run lint        # ESLint
-npm run build       # Production build
-```
-
-CI runs on every push/PR to `main` with Node.js `latest`.
-
-### 📄 License
-
-**BSD 3-Clause License** — see [LICENSE](https://github.com/nameuser4123/lobot-homepage/blob/main/LICENSE) for details.
+**Key Features**:
+- Real-time 10-year forecasts for oil, water & electricity prices
+- Interactive data visualization with Chart.js
+- Scenario analysis (Average/Optimistic/Pessimistic)
+- AI-powered dynamic factor insights & recommendations
+- Multi-currency support with real-time formatting
+- Export options: PNG, CSV, Markdown
+- Regional intelligence for all global continents
 
 ---
 
-## 💡 Core Beliefs
+### 3. [.github](https://github.com/nameuser4123/.github)
+> **Overall introduction to LoBot LLC startup**
 
-- 🗽 **Liberal mindset** — I believe in making all software free and open source
-- 💻 **Free software for all** — Software freedom is a fundamental right
-- 🏠 **Homebody** — Prefers staying at home, doesn't travel much
-- 🌙 **Work-life balance** — Part-time work allows me to enjoy personal interests
-
----
-
-## 📜 License
-
-This profile and repositories are licensed under various open source licenses. See individual repositories for specific licensing terms.
+- **Forked from**: [LoBot-LLC/.github](https://github.com/LoBot-LLC/.github)
+- **License**: GNU Affero General Public License v3.0
+- **Last Updated**: Nov 10, 2026
 
 ---
 
-*✨ "Code is like humor. When you have to explain it, it's bad." — Cory House*
+### 4. [nameuser4123](https://github.com/nameuser4123/nameuser4123)
+> **A brief introduction of m1zuk!**
 
-*Last updated: November 10, 2026*
+- **License**: GNU General Public License v3.0
+- **Last Updated**: Nov 10, 2026
+- **Profile README Repository**
+
+---
+
+## 🏆 GitHub Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) **YOLO** | You Only Live Once - merged a PR without review |
+| ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) **Pull Shark** | Opened pull requests that have been merged |
+
+---
+
+## 📊 Repository Statistics
+
+- **Total Public Repositories**: 4
+- **Primary Language**: TypeScript (100%)
+- **Forked from LoBot-LLC**: 3 repositories
+- **Original Repository**: 1 (profile README)
+- **Licenses Used**: MIT, BSD-3-Clause, GPL-3.0, AGPL-3.0
+
+---
+
+## 🔗 Links & Contact
+
+- **GitHub Profile**: [https://github.com/nameuser4123](https://github.com/nameuser4123)
+- **LoBot LLC Homepage**: [https://lobotllc.vercel.app/](https://lobotllc.vercel.app/)
+- **TecnoIndicator Demo**: [https://tecnoindicator-lobot.vercel.app](https://tecnoindicator-lobot.vercel.app)
+- **LoBot LLC Organization**: [https://github.com/LoBot-LLC](https://github.com/LoBot-LLC)
+
+---
+
+## 📝 License
+
+This profile README and associated repositories use various open-source licenses:
+- **MIT License** — TecnoIndicator
+- **BSD 3-Clause** — LoBot Homepage
+- **GPL-3.0** — Profile README
+- **AGPL-3.0** — Organization profile
+
+See individual repositories for specific license details.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone, including **AI-generated and AI-assisted code**! 
+
+> **Note**: AI contributions are explicitly allowed, but you must rigorously test the codebase before pushing to the main repository. Always test responsiveness, chart rendering, data exports, and edge cases.
+
+---
+
+*Built with ❤️ by m1zuk! — Part-time SE at LoBot LLC, full-time anime & kaiju fan*
+
+---
+
+<details>
+<summary><strong>🎯 Quick Stats</strong></summary>
+
+- **Account Created**: Active since 2026
+- **Pinned Repositories**: 4
+- **Organizations**: LoBot-LLC
+- **Location**: Home (prefer staying in 🏠)
+- **Pronouns**: He/Him
+- **Availability**: Part-time
+
+</details>

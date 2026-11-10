@@ -1,7 +1,6 @@
 # nameuser4123 (m1zuk!)
 
 [![GitHub](https://img.shields.io/badge/GitHub-nameuser4123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nameuser4123)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **just wanna sleep all day :(( working SE part time at [@LoBot-LLC](https://github.com/LoBot-LLC)**
 
@@ -9,7 +8,7 @@
 
 ## 👤 About Me
 
-Hi there! I'm **m1zuk!** (GitHub: **nameuser4123**), a part-time **Full-stack Software Engineer** at **LoBot LLC** — an AI-native startup building logistics and business solutions that help organizations make future-ready strategic decisions.
+Hi there! I'm **m1zuk!**, a part-time **Full-stack Software Engineer** at **LoBot LLC** — an AI-native startup building logistics and business solutions that help organizations make future-ready strategic decisions.
 
 ### 🎌 Interests & Hobbies
 
@@ -83,79 +82,6 @@ Based on analysis of all public repositories, here's the complete technology sta
 
 **Tech Stack**: Next.js 16.4.5, TypeScript 5.9, Tailwind CSS 4.1, PostgreSQL + Drizzle ORM, Node.js 22+, Internationalization (EN/ES/VI)
 
-**Project Structure**:
-```
-src/
-├── app/                    # Next.js App Router (pages + API routes)
-│   ├── api/               # Health check, Blog API endpoints
-│   ├── blog/              # Blog pages (index + slug)
-│   ├── products/          # Products index + TecnoIndicator
-│   ├── about/, careers/   # Static pages
-├── components/            # React UI components
-├── db/                    # Drizzle ORM schema & client
-├── lib/                   # Blog, GitHub, Site utilities
-└── i18n/                  # EN/ES/VI translations
-```
-
----
-
-### 2. [tecno-indicator-personal-own](https://github.com/nameuser4123/tecno-indicator-personal-own)
-> **The most reliable website to predict real-time oil and electricity prices for the next decade to come!**
-
-- **Forked from**: [LoBot-LLC/TecnoIndicator](https://github.com/LoBot-LLC/TecnoIndicator)
-- **Language**: TypeScript
-- **License**: MIT License
-- **Last Updated**: Nov 9, 2026
-- **Live Demo**: [https://tecnoindicator-lobot.vercel.app](https://tecnoindicator-lobot.vercel.app)
-
-**Tech Stack**: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, Chart.js, pnpm, AI-powered (Kilo Gateway + TinyFish)
-
-**Key Features**:
-- Real-time 10-year forecasts for oil, water & electricity prices
-- Interactive data visualization with Chart.js
-- Scenario analysis (Average/Optimistic/Pessimistic)
-- AI-powered dynamic factor insights & recommendations
-- Multi-currency support with real-time formatting
-- Export options: PNG, CSV, Markdown
-- Regional intelligence for all global continents
-
----
-
-### 3. [.github](https://github.com/nameuser4123/.github)
-> **Overall introduction to LoBot LLC startup**
-
-- **Forked from**: [LoBot-LLC/.github](https://github.com/LoBot-LLC/.github)
-- **License**: GNU Affero General Public License v3.0
-- **Last Updated**: Nov 10, 2026
-
----
-
-### 4. [nameuser4123](https://github.com/nameuser4123/nameuser4123)
-> **A brief introduction of m1zuk!**
-
-- **License**: GNU General Public License v3.0
-- **Last Updated**: Nov 10, 2026
-- **Profile README Repository**
-
----
-
-## 🏆 GitHub Achievements
-
-| Achievement | Description |
-|-------------|-------------|
-| ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) **YOLO** | You Only Live Once - merged a PR without review |
-| ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) **Pull Shark** | Opened pull requests that have been merged |
-
----
-
-## 📊 Repository Statistics
-
-- **Total Public Repositories**: 4
-- **Primary Language**: TypeScript (100%)
-- **Forked from LoBot-LLC**: 3 repositories
-- **Original Repository**: 1 (profile README)
-- **Licenses Used**: MIT, BSD-3-Clause, GPL-3.0, AGPL-3.0
-
 ---
 
 ## 🔗 Links & Contact
@@ -176,14 +102,6 @@ This profile README and associated repositories use various open-source licenses
 - **AGPL-3.0** — Organization profile
 
 See individual repositories for specific license details.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from everyone, including **AI-generated and AI-assisted code**! 
-
-> **Note**: AI contributions are explicitly allowed, but you must rigorously test the codebase before pushing to the main repository. Always test responsiveness, chart rendering, data exports, and edge cases.
 
 ---
 

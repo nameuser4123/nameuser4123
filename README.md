@@ -2,8 +2,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nameuser4123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nameuser4123)
 
-> **just wanna sleep all day :(( working SE part time at [@LoBot-LLC](https://github.com/LoBot-LLC)**
-
 ---
 
 ## 👤 About Me
